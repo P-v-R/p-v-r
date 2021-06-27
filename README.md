@@ -1,4 +1,13 @@
-### Hi there 👋
+### Howdy! 👋
+
+I'm Perry, Based out of Los Angeles and currently lookign for work in the Front end world. I enjoy both client and server side development and am happy working with either, but am always looking to up my UX/UI design skills. Hit me up if you want to collab or talk sports! 
+
+
+- 🔭 I’m currently working on Becoming a better programmer and human being.
+- 📫 How to reach me: *perry.j.vr@gmail.com*
+- 😄 Pronouns: He/Him
+- 🌱 I’m currently learning about better testing practices with React and Jest. 
+- ⚡ Fun fact: I shoot photography! [check it out](www.perryvon.com)
 
 <!--
 **P-v-R/p-v-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
