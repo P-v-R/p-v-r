@@ -7,7 +7,7 @@ I'm Perry, Based out of Los Angeles and currently lookign for work in the Front 
 - 📫 How to reach me: *perry.j.vr@gmail.com*
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning about better testing practices with React and Jest. 
-- ⚡ Fun fact: I shoot photography! [check it out](www.perryvon.com)
+- ⚡ Fun fact: I shoot photography! [check it out](https://perryvon.com)
 
 <!--
 **P-v-R/p-v-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
