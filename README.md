@@ -1,10 +1,10 @@
 ### Howdy! 👋
 
-I'm Perry, Based out of Los Angeles and currently looking for work in the full-stack world. I enjoy both client and server-side development and am happy working with either, I'm always looking to up my UX/UI design skills and database design knowledge/optimization! I recently wrapped up a remote internship at The Rithm School where I improved and expanded the student information portal, a large Django App built by a seasoned industry pro ( He set the bar high ). Hit me up if you want to collab or talk sports! 
+I'm Perry, Based out of Los Angeles and currently looking for work in the full-stack world. I enjoy both client and server-side development and am happy working with either, I'm always looking to up my UX/UI design skills and database design knowledge/optimization! I recently wrapped up a remote internship at The Rithm School where I improved and expanded the student information portal, a large Django App built by a seasoned industry pro ( He set the bar high ). Hit me up if you want to collab or talk sports! [You can check out my website here...](https://www.perryvon.dev/)
 
 
 - 🔭 I’m currently working on Becoming a better programmer and human being.
-- 📫 How to reach me: *perry.j.vr@gmail.com*
+- 📫 How to reach me: *me@perryvon.dev*
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning about better testing practices with React and Jest. 
 - ⚡ Fun fact: I shoot photography! [check it out](https://perryvon.com)
