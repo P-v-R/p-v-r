@@ -1,6 +1,6 @@
 ### Howdy! 👋
 
-I'm Perry, Based out of Los Angeles and currently lookign for work in the Front end world. I enjoy both client and server side development and am happy working with either, but am always looking to up my UX/UI design skills. Hit me up if you want to collab or talk sports! 
+I'm Perry, Based out of Los Angeles and currently looking for work in the full-stack world. I enjoy both client and server-side development and am happy working with either, I'm always looking to up my UX/UI design skills and database design knowledge/optimization! I recently wrapped up a remote internship at The Rithm School where I improved and expanded the student information portal, a large Django App built by a seasoned industry pro ( He set the bar high ). Hit me up if you want to collab or talk sports! 
 
 
 - 🔭 I’m currently working on Becoming a better programmer and human being.
