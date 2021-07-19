@@ -4,10 +4,10 @@ I'm Perry, Based out of Los Angeles and currently looking for work in the full-s
 
 
 - 🔭 I’m currently working on Becoming a better programmer and human being.
-- 📫 How to reach me: *me@perryvon.dev*
-- 😄 Pronouns: He/Him
+- 📫 How to reach me: *me@perryvon.dev*.
+- 😄 Pronouns: He/Him.
 - 🌱 I’m currently learning about better testing practices with React and Jest. 
-- ⚡ Fun fact: I shoot photography! [check it out](https://perryvon.com)
+- ⚡ Fun fact: I shoot photography! [check it out](https://perryvon.com).
 
 <!--
 **P-v-R/p-v-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
