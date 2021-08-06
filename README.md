@@ -6,7 +6,7 @@ I'm Perry, Based out of Los Angeles and currently looking for work in the full-s
 - 🔭 I’m currently working on Becoming a better programmer and human being.
 - 📫 How to reach me: *me@perryvon.dev*.
 - 😄 Pronouns: He/Him.
-- 🌱 I’m currently learning about better testing practices with React and Jest. 
+- 🌱 I’m currently learning about passwordless authentication and logins! 
 - ⚡ Fun fact: I shoot photography! [check it out](https://perryvon.com).
 
 <!--
