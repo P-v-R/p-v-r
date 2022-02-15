@@ -6,7 +6,7 @@ I'm Perry, Based out of Los Angeles and currently programming at Township. I enj
 - 🔭 I’m currently working on Becoming a better programmer and human being.
 - 📫 How to reach me: *me@perryvon.dev*.
 - 😄 Pronouns: He/Him.
-- 🌱 I’m currently learning about Elixir! 
+- 🌱 I’m currently learning about Elixir & Phoenix! 
 - ⚡ Fun fact: I shoot photography! [check it out](https://perryvon.com).
 
 <!--
