@@ -3,7 +3,7 @@
 I'm Perry, Based out of Los Angeles and currently programming at Township. I enjoy both client and server-side development and am happy working with either, I'm always looking to up my UX/UI design skills and database design knowledge/optimization! Hit me up if you want to collab or talk sports! [You can check out my website here...](https://www.perryvon.dev/)
 
 
-- 🔭 I’m currently working on Becoming a better programmer and human being.
+- 🔭 I’m currently working on some cool Elixir/Pheonix apps.
 - 📫 How to reach me: *me@perryvon.dev*.
 - 😄 Pronouns: He/Him.
 - 🌱 I’m currently learning about Elixir & Phoenix! 
