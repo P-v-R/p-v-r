@@ -1,6 +1,6 @@
 ### Howdy! 👋
 
-I'm Perry, Based out of Los Angeles and currently programming at [Township](https://township.agency/). I enjoy both client and server-side development and am happy working with either, I'm always looking to up my UX/UI design skills and database design knowledge/optimization! Hit me up if you want to collab or talk sports! [You can check out my website here...](https://www.perryvon.dev/)
+I'm Perry, Based out of Los Angeles and currently programming at [Township](https://township.agency/). Hit me up if you want to collab or talk sports! [You can check out my website here...](https://www.perryvon.dev/)
 
 
 - 🔭 I’m currently working on ledger device connectivity to a crypto wallet.
