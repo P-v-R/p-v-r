@@ -3,10 +3,10 @@
 I'm Perry, Based out of Los Angeles and currently programming at [Township](https://township.agency/). Hit me up if you want to collab or talk sports! [You can check out my website here...](https://www.perryvon.dev/)
 
 
-- 🔭 I’m currently working on ledger device connectivity to a crypto wallet.
+- 🔭 I’m currently working on documenting an open source plug and play admin portal for Elixir apps.
 - 📫 How to reach me: *me@perryvon.dev*.
 - 😄 Pronouns: He/Him.
-- 🌱 I’m currently learning about Elixir & Phoenix! 
+- 🌱 I’m currently learning about building a virtual video walkthrough platform using Elixir/Phoenix/Twilio 
 - ⚡ Fun fact: I shoot photography! [check it out](https://perryvon.com).
 
 <!--
