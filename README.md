@@ -1,3 +1,3 @@
-Engineer at [Township](https://township.agency/) 
+Dev @ [Township](https://township.agency/) 
 
 📬: me@perryvon.dev
