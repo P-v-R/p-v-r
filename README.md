@@ -1,5 +1,5 @@
-Building things @ [Township](https://township.agency/) 
+Hire me! 
 
 Fan of golfing.
 
-📬: me@perryvon.dev
+📬: perry.j.vr@gmail.com
